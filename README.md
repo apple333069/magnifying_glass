@@ -8,4 +8,4 @@
 ![image](https://github.com/apple333069/magnifying_glass/blob/main/src/assets/demo-pic1.png)  
 
 ### demo-2  
-![image](https://github.com/apple333069/magnifying_glass/blob/mainsrc/assets//demo-pic2.png)
+![image](https://github.com/apple333069/magnifying_glass/blob/mainsrc/assets/demo-pic2.png)
